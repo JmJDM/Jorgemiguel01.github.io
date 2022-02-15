@@ -1,0 +1,157 @@
+
+
+  .Introduccion{
+    border: px solid white;
+    margin: 0px 750px 0px 300px;
+    text-align:center;
+    padding-top: 50px;
+ }
+ .Parrafo {
+     border: px solid red;
+    margin: 0px 750px 25px 300px;
+     text-align:center;
+     padding-top: 25px;
+ }
+
+h1{
+color: black
+}
+hr {
+    height: 4px;
+    background-color: rgb(252, 13, 13);
+    height: 2px;
+  border-color: rgb(252, 13, 13);
+
+ 
+  width: 66%;
+  }
+
+  body {
+    height: 90%;
+    background-image:url(Fondo\ actualizado.jpg);
+    background-size: cover;
+ 
+    background-position: center;
+  }
+
+
+  .logoj
+  {
+    width: 600px;
+    margin: -5px 10px 0px -22px ;
+  }
+
+
+  .imagenj 
+    {
+        width: 850px;
+        height: auto; 
+       
+        display: block;
+        
+        margin:  -5px 0px 0px 180px;
+    }
+     
+
+
+    .imagen
+    {
+      width: 870px;
+      height: auto; 
+     
+      display: block;
+     
+      margin: 10px 0px 10px 220px;
+    }
+    .titulo2{
+
+     
+      border: px solid red;
+      margin: -455px 250px 550px 700px;
+       text-align:center;
+       padding-top: 25px;
+   }
+
+  .autotuneados
+   {
+       width: 40px;
+       height: 5px; 
+    
+       display: block;
+       
+       margin: -300px 0px -135px 500px;
+   }
+
+   .autostuneadosp{
+    border: px solid red;
+   margin: 100px 790px 162px 230px;
+    text-align:center;
+    padding-top: 25px;
+}
+   
+.Aftermarket{
+
+margin: 10px 0px 10px 235px;
+
+display: block;
+}
+ 
+.Aftermarketp
+{
+  
+  
+      margin: -600px 250px 0px 720px;
+       text-align:center;
+       padding-top: 28px;
+
+}
+  
+.turlla{
+
+  
+  margin: 10px 250px 0px 720px;
+  text-align:center;
+  padding-top: 28px;
+
+
+}
+
+.RelojA{
+
+  margin: 10px 250px 0px 720px;
+  text-align:center;
+  padding-top: 28px;
+
+
+}
+
+.Nitrous{
+
+  margin: 10px 250px 0px 720px;
+  text-align:center;
+  padding-top: 28px;
+
+}
+
+.SixSpeedShift{
+
+
+  margin: 10px 250px 0px 720px;
+  text-align:center;
+  padding-top: 28px;
+
+}
+
+.Abrigo{
+  margin: 10px 250px 0px 720px;
+  text-align:center;
+  padding-top: 28px;
+}
+
+.backpack{
+
+  margin: 10px 250px -10px 720px;
+  text-align:center;
+  padding-top: 28px;
+
+}
